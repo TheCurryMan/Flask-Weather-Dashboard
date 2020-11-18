@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078c544c-a32f-43cf-a63f-4a9a80fcf74a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov-Chains-Final/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov-Chains-Final/config.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov-Chains-Final/lyrics.py" afterDir="false" />
@@ -17,9 +16,10 @@
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/markov.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/static/styles/home.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Flask-Weather-Dashboard-Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask-Weather-Dashboard-Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dfOV6GXsr7UYAHaSlpxoSKg2tV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -131,7 +131,7 @@
       <workItem from="1605002475568" duration="213000" />
       <workItem from="1605061020214" duration="2907000" />
       <workItem from="1605344398758" duration="11000" />
-      <workItem from="1605685633610" duration="336000" />
+      <workItem from="1605685633610" duration="1426000" />
     </task>
     <servers />
   </component>
@@ -139,6 +139,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1240" height="184" key="GridCell.Tab.0.bottom" timestamp="1605686002424">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="1240" height="184" key="GridCell.Tab.0.bottom/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002424" />
+    <state width="1240" height="184" key="GridCell.Tab.0.center" timestamp="1605686002423">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="1240" height="184" key="GridCell.Tab.0.center/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002423" />
+    <state width="1240" height="184" key="GridCell.Tab.0.left" timestamp="1605686002422">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="1240" height="184" key="GridCell.Tab.0.left/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002422" />
+    <state width="1240" height="184" key="GridCell.Tab.0.right" timestamp="1605686002424">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="1240" height="184" key="GridCell.Tab.0.right/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002424" />
     <state x="142" y="23" key="SettingsEditor" timestamp="1605685676070">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
