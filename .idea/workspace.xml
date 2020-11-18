@@ -16,10 +16,9 @@
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/markov.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/static/styles/home.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lyrics-Generator-Markov/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,7 @@
       <workItem from="1605002475568" duration="213000" />
       <workItem from="1605061020214" duration="2907000" />
       <workItem from="1605344398758" duration="11000" />
-      <workItem from="1605685633610" duration="1426000" />
+      <workItem from="1605685633610" duration="3231000" />
     </task>
     <servers />
   </component>
@@ -139,22 +138,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1240" height="184" key="GridCell.Tab.0.bottom" timestamp="1605686002424">
+    <state width="1240" height="184" key="GridCell.Tab.0.bottom" timestamp="1605695627267">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
-    <state width="1240" height="184" key="GridCell.Tab.0.bottom/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002424" />
-    <state width="1240" height="184" key="GridCell.Tab.0.center" timestamp="1605686002423">
+    <state width="1240" height="184" key="GridCell.Tab.0.bottom/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605695627267" />
+    <state width="1240" height="184" key="GridCell.Tab.0.center" timestamp="1605695627263">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
-    <state width="1240" height="184" key="GridCell.Tab.0.center/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002423" />
-    <state width="1240" height="184" key="GridCell.Tab.0.left" timestamp="1605686002422">
+    <state width="1240" height="184" key="GridCell.Tab.0.center/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605695627263" />
+    <state width="1240" height="184" key="GridCell.Tab.0.left" timestamp="1605695627262">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
-    <state width="1240" height="184" key="GridCell.Tab.0.left/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002422" />
-    <state width="1240" height="184" key="GridCell.Tab.0.right" timestamp="1605686002424">
+    <state width="1240" height="184" key="GridCell.Tab.0.left/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605695627262" />
+    <state width="1240" height="184" key="GridCell.Tab.0.right" timestamp="1605695627263">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
-    <state width="1240" height="184" key="GridCell.Tab.0.right/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605686002424" />
+    <state width="1240" height="184" key="GridCell.Tab.0.right/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1329@0.23.2560.1329" timestamp="1605695627263" />
     <state x="142" y="23" key="SettingsEditor" timestamp="1605685676070">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
@@ -169,6 +168,6 @@
     <state x="945" y="326" key="search.everywhere.popup/2560.23.1920.1177/-1080.-86.1080.1897/0.23.2560.1331@0.23.2560.1331" timestamp="1605062540969" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flask_Weather_Dashboard_Final$app.coverage" NAME="app Coverage Results" MODIFIED="1605685685828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flask_Weather_Dashboard_Final$app.coverage" NAME="app Coverage Results" MODIFIED="1605695627247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
